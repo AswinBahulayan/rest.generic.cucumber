@@ -9,7 +9,7 @@
 
   
 ## How to trigger the test cases?
-> the cucuber runner file is kept inside src/test/java/test/runner package. Right click the runner file and run as testNg.
+> the cucuber runner file is kept inside src/test/java/test/runner package. To run the tests, right click the runner file and run as testNg
 ## Where to find the results?
 > The results can be found inside the target/cucumber/cucumber-report.html
 ## Where are the UI automation logic kept?

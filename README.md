@@ -12,6 +12,8 @@
 > the cucuber runner file is kept inside src/test/java/test/runner package. To run the tests, right click the runner file and run as testNg
 ## Where to find the results?
 > The results can be found inside the target/cucumber/cucumber-report.html
+## Where are the feature file kept
+> The feature file are kept inside src/test/resources/Feature package. There are two feature files, one for UI and other for API
 ## Where are the UI automation logic kept?
 > All the scripts related to UI automation are kept inside package starting with com.ui.
 ## Where are the logic for API kept

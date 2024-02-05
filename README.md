@@ -15,4 +15,4 @@
 ## Where are the UI automation logic kept?
 > All the scripts related to UI automation are kept inside package starting with com.ui.
 ## Where are the logic for API kept
-> ALl the scripts related to api automation are kept inside package starting with com.api.
+> All the scripts related to api automation are kept inside package starting with com.api.

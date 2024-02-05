@@ -1,8 +1,8 @@
 package com.api.stepDefinition;
 
+import com.api.classes.CoinMapApi;
 import com.cucumber.testng.AbstractTestNGCucumberTests;
 
-import api.classes.CoinMapApi;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
 import io.cucumber.java.en.And;

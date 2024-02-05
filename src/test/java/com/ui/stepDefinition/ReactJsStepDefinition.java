@@ -1,7 +1,8 @@
 package com.ui.stepDefinition;
 
 import com.cucumber.testng.AbstractTestNGCucumberTests;
-import com.reactJs.pages.PageObjectFactory;
+import com.ui.pages.PageObjectFactory;
+
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
 import io.cucumber.java.en.And;

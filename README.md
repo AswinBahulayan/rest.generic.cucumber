@@ -16,5 +16,5 @@
 > The feature file are kept inside src/test/resources/Feature package. There are two feature files, one for UI and other for API
 ## Where are the UI automation logic kept?
 > All the scripts related to UI automation are kept inside package starting with com.ui.
-## Where are the logic for API kept
+## Where are the logic for API automation kept
 > All the scripts related to api automation are kept inside package starting with com.api.
